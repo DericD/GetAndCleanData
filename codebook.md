@@ -6,8 +6,8 @@
  1. subject number  
  	* the id of the study participant            
  2. action performed  
- 	* the tupe of action being performed and recorded
-- - - - 
+ 	* the type of action being performed and recorded
+
 ##Mesures    
 * tBodyAccmeanX               
 * tBodyAccmeanY               
