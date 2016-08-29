@@ -2,13 +2,13 @@
  - - - -
  This code book summarizes the file that is created from the Analysis Script
  - - - -
- ## distinguishers 
+ ##distinguishers 
  1. subject number  
  	* the id of the study participant            
  2. action performed  
  	* the tupe of action being performed and recorded
 - - - - 
-## Mesures    
+##Mesures    
 * tBodyAccmeanX               
 * tBodyAccmeanY               
 * tBodyAccmeanZ               
@@ -89,7 +89,7 @@
 * fBodyBodyGyroJerkMagstd     
 * fBodyBodyGyroJerkMagmeanFreq
 
-## Activity Lables
+##Activity Lables
 * 1 - Walking
 * 2 - WALKING UPSTAIRS
 * 3 - WALKING_DOWNSTAIRS
