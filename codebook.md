@@ -2,7 +2,8 @@
  - - - -
  This code book summarizes the file that is created from the Analysis Script
  - - - -
- ##distinguishers 
+ 
+##distinguishers 
  1. subject number  
  	* the id of the study participant            
  2. action performed  
