@@ -98,11 +98,10 @@
 * 5 - STANDING
 * 6 - LAYING
 
-- - - -
-The set of variables that were estimated from these signals are: 
+All the variable are either a Mean value or a standard deviation
 
-mean(): Mean value
-std(): Standard deviation
+* mean(): Mean value
+* std(): Standard deviation
 
 Site where the data was originally obtained
 [Link](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#)
